@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dakshitha V</h1>
-<h3 align="center"></h3>
-
 - 🌱 I’m currently learning **php**
 
 - 📫 How to reach me **dakshithavelusamy@gmail.com**
